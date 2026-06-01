@@ -35,3 +35,4 @@ const numeroPreciso = 0.1 + 0.2; //0.30000000000000004
 const raizCuadrada = Math.sqrt(16); //4
 const valorAbsoluto = Math.abs(-10); //10
 const numeroAleatorio = Math.random(); //numero aleatorio entre 0 y 1Ñ
+

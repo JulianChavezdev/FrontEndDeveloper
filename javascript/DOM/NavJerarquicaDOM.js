@@ -25,11 +25,8 @@ console.log(lastChild2);
 //Legar al ÚLTIMO HIJO
 const lastChild = parent.lastElementChild;
 console.log(lastChild);
-```También les dejo los métodos para **navegar entre elementos hermanos:**
+```También les dejo los métodos para **navegar entre elementos hermanos:```
 
-
-
-```js
 //Trae al nodo anterior del elemento HERMANO del padre
 const previousSibling2 = parent.previousSibling;
 console.log(previousSibling2);
@@ -45,8 +42,8 @@ console.log(nextSibling2);
 //Llegar al elemento DESPUÉS del padre, es decir, también su hermano pero después de este
 const nextSibling = parent.nextElementSibling;
 console.log(nextSibling);
-```Acá se incluyen los métodos que el profe nos colocó en comentarios para investigar por cuenta propia 😃
 
 
 
-Mi perfil de Github: <https://github.com/iamanyyeei>
+
+

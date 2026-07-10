@@ -1,0 +1,30 @@
+{
+  "name": "platzi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/JulianChavezdev/Javascript#readme",
+  "bugs": {
+    "url": "https://github.com/JulianChavezdev/Javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianChavezdev/Javascript.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "@tailwindcss/vite": "^4.3.1",
+    "@tailwindplus/elements": "^1.0.22"
+  }
+}
